@@ -15,7 +15,7 @@ Our sample of U.S. actively managed mutual funds is constructed from the interse
 
 ### Methodology
 
-🌐 View [here]((https://bing-han-dk.github.io/maf900-a2/maf900-a2-methodology.html).
+🌐 View [here](https://bing-han-dk.github.io/maf900-a2/maf900-a2-methodology.html).
 
 ### Report
 
