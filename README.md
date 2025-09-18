@@ -1,4 +1,4 @@
-# ***Is there a Cross-Market Heterogeneity in Fund Responses to EPS forecasts?***
+# ***MAF900-A2***
 
 Previous studies suggest that EPS forecasts (Pástor et al. 2008, Da and Warachka 2009), as a proxy for market expectations of future cash flows, play an important role in stock prices and investment decisions (Campbell and Vuolteenaho 2004). Fund managers may adjust their portfolios based on these forecasts— increasing their holdings of stocks with strong expected growth while reducing exposure to those with weaker prospects (Lan and Wermers 2024). Meanwhile, Differences between U.S. and non-U.S. stocks—particularly in market structures, regulatory environments, financial reporting transparency (Gelos and Wei 2005), FX volatility (Camanho et al. 2022), and home bias (Coval and Moskowitz 1999, De Marco et al. 2022, Sialm et al. 2020)—may affect investors' trade-offs in investment decisions. We are interested in whether heterogeneity exists in fund managers‘ response to earning estimates between U.S. and non-U.S. stocks. As far as we know, no such research has been conducted so far.
 
